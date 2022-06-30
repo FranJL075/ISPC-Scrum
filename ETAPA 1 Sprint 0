@@ -1,0 +1,40 @@
+¿QUÉ ES LA METODOLOGÍA SCRUM?
+
+Es un marco de trabajo a través el cual las personas pueden abordar	problemas complejos adaptativos, a la vez
+que se entregan productos de forma	eficiente y creativa con el máximo valor. 
+Muy empleada en el mundo de la programación y el desarrollo del software.
+
+Presenta carácteristicas como:
+- Tener un enfoque agíl
+- Orientado a resultados y compromisos
+- Abarcar diferentes áreas de profesiones
+- Oponerse a la metodología Cascada
+
+En vez de hacer una sola cosa por vez, este marco de trabajo plantea una actividad de todos los miembros,
+en	cada tarea planteada. Dicho en otras palabras, en vez de hacer una cosa por vez, los equipos SCRUM hacen de todo un poco.
+
+Los equipos SCRUM cuentan con diferentes roles para cada miembro, estos son:
+
+-PRODUCT OWNER	(PO):	es quien nos hace llegar el pedido o la idea del cliente para que el equipo la solucione.
+
+-SCRUM MASTER (SM): líder del equipo y el encargado de solucionar cualquier problema u obstaculo que impida que el equipo pueda 
+desarrollar sus tareas eficientemente. Delega y ayuda en la coordinacion del equipo para lograr el objetivo planteado
+
+-DEVELOPMENT TEAM (DT): se encarga de ejecutar las tareas planteadas. 
+
+-USER: la persona a la cual le llega el producto terminado, no es lo mismo que cliente, el cual es quien busca desarrollar el producto.
+
+Para mantenerse de forma ordenada y comprometida,	los equipos SCRUM	realizan "CEREMONIAS" en la cual realizan las siguientes tareas:
+
+-SPRINT PLANNING MEETING (reunión de planificación del sprint): Se produce al iniciar cada Sprint y tiene por objetivo decidir 
+que se va a realizar en el Sprint.
+
+-DAILY SCRUM MEETING (reunión periódica). Se produce diariamente, y tiene un máximo de	20 min. de duración. Tiene por objeto 
+tratar qué es lo que se hizo, qué se va a hacer y	qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.
+
+-SPRINT REUNION MEETING (reunión de revisión del Sprint). Se produce al finalizar el Sprint y	tiene por objeto mostrar qué es lo 
+que se ha completado y qué no. Debe estar presente el	Product Owner.
+
+-SPRINT RETROSPECTIVE MEETING  (reunión de retrospectiva del Sprint). Se produce también al	finalizar el Sprint y tiene por objeto 
+documentar qué ha funcionado y qué no ha funcionado	en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien
+y en lo que	debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
